@@ -1,0 +1,21 @@
+#app {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+nav {
+  padding: 20px 0 20px 0;
+}
+
+div.jumbotron {
+  border-radius: 5px;
+  background-color: #e9ecef;
+  padding: 10px;
+}
+
+h1.jumbotron {
+  border-radius: 5px;
+  font-size: 60px;
+  background-color: #e9ecef;
+  padding: 10px;
+}
